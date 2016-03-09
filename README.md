@@ -4,3 +4,5 @@ uTunes is a project made for my software development class. My team proposed an 
 *The main .cpp and .h files for the uTunes Program*
 
 This repository holds the main Backend Classes used in the implementation of uTunes, there are references to C++ libraries such as SFML.
+
+![alt tag](https://github.com/EseOkonofua/uTunes/blob/master/uTunesPosterSmall.png)
